@@ -1,3 +1,15 @@
+.list {
+
+  line-height: 150%;
+
+}
+
+.small-padding {
+
+    padding: 20px;
+
+}
+
 p {
 
     line-height: 150%;
@@ -13,8 +25,10 @@ a {
 .news {
 
     font-family: 'Roboto', sans-serif;
-    margin-top: 5%;
-    margin-left: 5%;
+    margin-top: 40px;
+    margin-left: 22px;
+    width: 320px;
+    padding: 10px;
 
 }
 
@@ -38,7 +52,6 @@ a {
 .center-box-restricted {
 
     font-family: 'Roboto', sans-serif;
-    width: 320px;
 
 }
 
